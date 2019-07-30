@@ -1,0 +1,12 @@
+Caution: Ext. Email hyperlink/attachment
+Opt in - 
+
+http:/media.smsgupshup.com/GatewayAPI/rest?method=OPT_IN&format=json&userid=2000183757&password=NnheFu&phone_number=917428453608&v=1.1&auth_scheme=plain&channel=WHATSAPP
+
+
+
+Msg Api-  https://media.smsgupshup.com/GatewayAPI/rest?method=SendMessage&send_to=917467802509&msg=As%20on%20%7B%7B1%7D%7D%2C%20Loan%20amount%20on%20your%20Max%20Life%20Policy%20%7B%7B2%7D%7D%20is%20Rs%20%7B%7B3%7D%7D.%20Interest%20of%20Rs%20%7B%7B4%7D%7D%20is%20due.%20Click%20to%20pay%20bit.ly%2F2LYNaD1&msg_type=TEXT&userid=2000183757&auth_scheme=plain&password=NnheFu&v=1.1&format=text
+
+
+Regards
+Adit Kumar
